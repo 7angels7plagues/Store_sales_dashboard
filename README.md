@@ -1,4 +1,4 @@
-# Store_Sales_Dashboard
+# Store Sales Dashboard
 A simple and interactive dashboard using advanced excel.
 
 **OBJECTIVE-**
