@@ -1,6 +1,6 @@
 # Store sales dashboard
 A simple and interactive dashboard using advanced excel.
-!(https://github.com/7angels7plagues/Store_sales_dashboard/blob/48fd2deeff06e3b25c24150d1c259ceb4419bc70/store_sales_dashboard_screenshot.PNG)
+![Store sales dashboard](https://github.com/7angels7plagues/Store_sales_dashboard/blob/48fd2deeff06e3b25c24150d1c259ceb4419bc70/store_sales_dashboard_screenshot.PNG)
 
 **OBJECTIVE-**
 
